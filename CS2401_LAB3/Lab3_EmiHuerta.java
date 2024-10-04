@@ -1,10 +1,3 @@
-/* CS2401
- * Files needed to complete Lab 3:
- * 	- Node.java
- * 	- LinkedList.java
- *  - Lab3_Lastname.java --- the java file of your program. 
- */
-
  import java.io.File;
  import java.io.FileNotFoundException;
  import java.util.Scanner;
